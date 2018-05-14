@@ -1,0 +1,102 @@
+﻿#two {
+background-color:gray;color:white;text-align:center;
+}
+#one{
+text-align:center;background:blue;
+}
+#three{
+text-align:center;background:gray;border:thin;border-color:black;border-style:solid;
+	
+	
+}
+#four{
+	text-align:center; background:gray;
+}
+h1{
+	
+	color:red;
+	text-align:center;
+}
+#five{
+	
+	left:50%;
+}
+#forms{
+	
+	text-align:center;
+	color:white;
+	font-family:cursive;
+}
+input[type=submit] {
+
+background: #FF3300;
+
+color:white;
+
+border: 1px solid #eee;
+
+border-radius: 50px;
+
+box-shadow: 15px 15px 15px #eee;
+left:50%
+
+}
+a:visited{
+	color:black;
+}
+a:hover{
+	
+	font-size:40px;
+}
+.slides{
+width:500px;
+height:400px;
+left:60%
+}
+
+#six{
+	
+	font-family:cursive;
+	color:maroon;
+}
+#sev{
+	
+	font-family:cursive;
+	color:navy;
+		background-color:silver;
+			
+}
+#eig{
+
+	border:medium;
+	border-color:maroon;
+	border-style:solid;
+	border-spacing:10px;
+	border-radius:25px;
+		background-color:maroon;
+
+}
+#nine{
+	
+	border:medium;
+	border-radius:25px;
+	border-style:ridge;
+	border-color:maroon;
+	
+}
+#new{
+	
+	font-family:cursive;
+	background-color:silver;
+}
+#ten{
+	
+	border:medium;
+	border-style:solid;
+	border-radius:25px;
+	border-color:maroon;
+}
+#ele {
+	
+	font-family:cursive;
+	background-color:silver;}
